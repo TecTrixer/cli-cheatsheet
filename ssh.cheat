@@ -1,0 +1,4 @@
+% ssh
+
+# Login via ssh
+ssh <username>@<server>
